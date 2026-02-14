@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="box">
-          <h1>🎉 Congratulations!</h1>
+          <h1>🎉 Congratulations Jacob </h1>
           <p>Your application has been successfully deployed.</p>
           <p class="highlight">Hosted on AWS Elastic Beanstalk 🚀</p>
           <p>CI powered by AWS CodeBuild</p>
